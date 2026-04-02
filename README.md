@@ -104,5 +104,6 @@ The AI uses **Minimax with Alpha-Beta Pruning** to evaluate moves:
 - The AI opponent can be challenging due to alpha-beta pruning optimization
 - Close the window or press ESC from the menu to exit
 - Works on Windows, macOS, and Linux
+  Web version available at : https://chareenr.itch.io/connect4
 
 Enjoy the game! 🎮
